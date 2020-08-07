@@ -4,10 +4,10 @@
 
 # Projeto Orange / Regras de Associação para Foodmart
 ## Imagem do Projeto
-![foodmart.PNG](lab01/images/foodmart.PNG)
+![foodmart.PNG](images/foodmart.PNG)
 
 ## Arquivo do Projeto
-[foodmart.ows](lab01/orange/foodmart.ows)
+[foodmart.ows](orange/foodmart.ows)
 
 # Projeto Orange / Análise de Dados do Google PlayStore
 Imagem do Projeto
