@@ -3,11 +3,11 @@
 **Rodrigo Yokoo Siqueira Bueno**
 
 # Projeto Orange / Regras de Associação para Foodmart
-![Imagem do Projeto]()
-Coloque uma imagem da captura de tela com o projeto do Orange.
+## Imagem do Projeto
+![foodmart.PNG](lab01/images/foodmart.PNG)
 
-Arquivo do Projeto
-Coloque um link para o arquivo em Orange.
+## Arquivo do Projeto
+[foodmart.ows](lab01/orange/foodmart.ows)
 
 # Projeto Orange / Análise de Dados do Google PlayStore
 Imagem do Projeto
