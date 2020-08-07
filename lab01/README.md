@@ -11,10 +11,10 @@
 
 # Projeto Orange / Análise de Dados do Google PlayStore
 Imagem do Projeto
-Coloque uma imagem da captura de tela com o projeto do Orange.
+![googleplay.PNG](images/googleplay.PNG)
 
 Arquivo do Projeto
-Coloque um link para o arquivo em Orange.
+[google-playstore-preparation.ows](orange/google-playstore-preparation.ows)
 
 # Gráfico(s) de Análise
 Apresente a seguir o(s) gráfico(s) de análise produzidos (se houver) com legendas.
