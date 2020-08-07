@@ -3,7 +3,7 @@
 **Rodrigo Yokoo Siqueira Bueno**
 
 # Projeto Orange / Regras de Associação para Foodmart
-Imagem do Projeto
+![Imagem do Projeto]()
 Coloque uma imagem da captura de tela com o projeto do Orange.
 
 Arquivo do Projeto
