@@ -4,17 +4,7 @@
 
 # Orquestração e Coreografia
 
-# Modelo para Apresentação do Lab03 - Model-View-Controller
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-├── images     <- arquivos de imagens usadas no documento
-│
-└── app        <- aplicativo exportado em formato `aia`
-~~~
+# Lab03 - Model-View-Controller
 
 ## Tarefa 1
 > Coloque a imagem do PRNG do seu diagrama como ilustrado abaixo:
@@ -32,7 +22,7 @@ Estrutura de pastas:
 
 ## Tarefa 3
 
-![tela 1](images/tela1.png)
+> ![tela 1](images/tela1.png)
 > ![tela 2](images/tela2.png)
 > ![tela 3](images/tela3.png)
 > ![tela 4](images/tela4.png) 
