@@ -30,9 +30,9 @@ Estrutura de pastas:
 
 ## Tarefa 3
 
-![tela 1](images/tela1.png)
-![tela 2](images/tela2.png)
-![tela 3](images/tela3.png)
-![tela 4](images/tela4.png)
+![tela 1](images/tela1.png =300x)
+![tela 2](images/tela2.png =300x)
+![tela 3](images/tela3.png =300x)
+![tela 4](images/tela4.png =300x)
 ![blocks](images/blocks.png)
 [Link para o arquivo do aplicativo](app/Tarefa_3.aia)
