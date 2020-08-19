@@ -1,6 +1,8 @@
 # INF331-2020
 
-**Rodrigo Yokoo Siqueira Bueno**# Orquestração e Coreografia
+**Rodrigo Yokoo Siqueira Bueno**
+
+# Orquestração e Coreografia
 
 # Modelo para Apresentação do Lab03 - Model-View-Controller
 
@@ -30,9 +32,6 @@ Estrutura de pastas:
 
 ## Tarefa 3
 
-![tela 1](images/tela1.png)
-![tela 2](images/tela2.png)
-![tela 3](images/tela3.png)
-![tela 4](images/tela4.png)
+![tela 1](images/tela1.png) ![tela 2](images/tela2.png) ![tela 3](images/tela3.png) ![tela 4](images/tela4.png) 
 ![blocks](images/blocks.png)
 [Link para o arquivo do aplicativo](app/Tarefa_3.aia)
