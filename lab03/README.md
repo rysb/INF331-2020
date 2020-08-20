@@ -11,13 +11,13 @@
 ![Diagrama de Orquestração](images/tarefa1.png)
 
 ## Tarefa 2
-> Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
->
-> ![Diagrama de Coreografia](images/tarefa2.png)
->
-> Nesta tarefa não há um diagrama de atividades. O leilão é um processo que emerge da interação dos componentes. Liste a seguir qual a sequência esperada de ações que emergirá da interação como uma lista. Quando ser referir a uma mensagem, indique o tópico/interface envolvido. Exemplo:
-> 1. o componente X posta uma mensagem com o tópico Y;
-> 2. os componentes do tipo A que assinam o tópico X fazem Z e postam uma mensagem com o tópico W.
+![Diagrama de Coreografia](images/tarefa2.png)
+1. O componente Cliente posta uma mensagem com o tópico *cotar/#* (por exemplo, cotar/liquidificador);
+2. O componente Leilão assina o tópico *cotar* e publica uma mensagem com o tópico *leiloar*;
+3. Os componentes do tipo Fornecedor assinam o tópico *leiloar* e publicam mensagens com o tópico *preço*;
+4. O componente Agregador assina o tópico *preço* e publica uma mensagem com o tópico *agregado*;
+5. Os componentes do tipo Cliente assinam o tópico *agregado* e apresentam os melhores preços para os clientes.
+
 
 ## Tarefa 3
 
