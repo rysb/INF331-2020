@@ -31,4 +31,4 @@
 
 
 ## Tarefa 4
-[Link para o github do grupo 3](https://github.com/INF331-Grupo3/tarefa4)
+[Link para o github da Equipe 3](https://github.com/INF331-Grupo3/tarefa4)
